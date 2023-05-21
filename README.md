@@ -1,17 +1,15 @@
-
-
-# Driving Companion
+# 🚗 Driving Companion
 
 Driving Companion is a mobile application designed to enhance driver safety and prevent accidents. The app utilizes machine learning techniques to detect driver drowsiness and provide real-time alerts and tips to keep the driver alert and focused on the road. Additionally, it includes a speed limit notification feature to ensure drivers adhere to legal speed limits and avoid potential accidents.
 
 ## Features
 
-### Drowsiness Detection and Alert
+### 😴 Drowsiness Detection and Alert
 - The app uses ML Kit, a machine learning framework provided by Google, to detect driver drowsiness based on eye movements and facial expressions.
 - When drowsiness is detected, the app provides real-time alerts to the driver, reminding them to stay focused and avoid potential accidents.
 - Tips and suggestions are displayed to help the driver maintain attentiveness and reduce the risk of drowsy driving.
 
-### Speed Limit Notifications
+### 🚦 Speed Limit Notifications
 - The app utilizes GPS technology to monitor the vehicle's speed.
 - It provides notifications to the driver when they exceed the legal speed limit for the current road.
 - By alerting drivers about their speed, the app helps promote safer driving practices and reduces the likelihood of accidents caused by excessive speed.
@@ -46,5 +44,4 @@ Contributions to the Driving Companion app are welcome! If you would like to con
 - Make your changes and test them thoroughly.
 - Submit a pull request, explaining the changes you have made and why they should be merged.
 
-Please note that all contributions are subject to review and approval before being merged into the main branch.
-
+Please note that all contributions are subject to review and approval before being merged into the main branch. Let's work together to make driving safer and prevent accidents! 🚀🛡️
